@@ -2,8 +2,9 @@ name: Build, Validate, and Deploy Pelican Site to Hostinger
 
 on:
   push:
-    branches:
-      -main
+    branches: [ main ]
+  permissions:
+    contents: write
   workflow_dispatch:
 
 jobs:
