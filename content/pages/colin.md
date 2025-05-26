@@ -1,6 +1,8 @@
-# Colin Trierweiler
+Title: Colin Trierweiler
 
-![Colin Trierweiler](/content/img/Colin2024.jpg)
+## Colin Trierweiler
+
+![Colin Trierweiler](img/Colin2024.jpg)
 
 The elusive founder of Fractoscopic Visions.
 

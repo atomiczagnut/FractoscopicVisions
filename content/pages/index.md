@@ -1,4 +1,4 @@
-# Fractoscopic Visions
+Title: Home
 
 Come explore the intersection of art, music, math, code, and philosophy!
 

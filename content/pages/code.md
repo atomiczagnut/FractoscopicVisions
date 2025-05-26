@@ -1,8 +1,10 @@
-# Computer Code
+Title: Computer Code
+
+## Computer Code
 
 I've been writing computer code for almost as long as I can remember.  I started with Q-BASIC when I was a still a kid.
 
-![Colin programming when he was a kid](/content/img/Colin_at_CPU.png)
+![Colin programming when he was a kid](img/Colin_at_CPU.png)
 
 Once the World Wide Web took off, I taught myself HTML and had a site on GeoCities, if you remember that!
 

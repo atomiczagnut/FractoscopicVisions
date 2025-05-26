@@ -1,4 +1,6 @@
-# Music
+Title: Music
+
+## Music
 
 Music has always fascinated me.  I like how it ties certain sounds to certain emotions.
 

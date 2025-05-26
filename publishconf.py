@@ -11,12 +11,13 @@ from pelicanconf import *
 SITEURL = "https://fractoscopicvisions.com"
 RELATIVE_URLS = False
 
-FEED_ALL_ATOM = "feeds/all.atom.xml"
-CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
-
 DELETE_OUTPUT_DIRECTORY = True
 
-# Following items are often useful when publishing
+THEME = 'themes/my-theme'
+STATIC_PATHS = ['pages/404.md', '.htaccess', 'robots.txt', 'img']
+EXTRA_PATH_METADATA = {
+    'pages/404.md': {'path': 'fractoscopic/404.html'},
+    '.htaccess': {'path': 'fractoscopic/.htaccess'},
+    'robots.txt': {'path': 'fractoscopic/robots.txt'}
+}
 
-# DISQUS_SITENAME = ""
-# GOOGLE_ANALYTICS = ""

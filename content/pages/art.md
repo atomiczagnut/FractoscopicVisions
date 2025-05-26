@@ -1,4 +1,6 @@
-# Visual Art
+Title: Visual Art
+
+## Visual Art
 
 We make our psychedelic designs in a number of different ways.
 
