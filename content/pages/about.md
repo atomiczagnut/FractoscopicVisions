@@ -10,5 +10,5 @@ Now, in addition to visual art, we study music, computer code, mathematics, phil
 
 ## About This Website
 
-I built this website using [Pelican 4.10.2](http://getpelican.com), which is a static site generator written in [Python](https://python.org).  I wrote a custom [Jinja](https://jinja.palletsprojects.com) template myself, with some styling help from [Bootstrap 4.6.2](https://getbootstrap.com).  The content is written in [Markdown](https://daringfireball.net/projects/markdown/).
+I built this website using [Pelican 4.10.2](https://getpelican.com), which is a static site generator written in [Python](https://python.org).  I wrote a custom [Jinja](https://jinja.palletsprojects.com) template myself, with some styling help from [Bootstrap 4.6.2](https://getbootstrap.com).  The content is written in [Markdown](https://daringfireball.net/projects/markdown/).
 
