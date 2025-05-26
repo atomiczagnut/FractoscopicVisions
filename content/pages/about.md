@@ -2,7 +2,7 @@ Title: About
 
 ## About Fractoscopic Visions
 
-Fractoscopic Visions was founded by [Colin Trierweiler](colin-trierweiler.html) in 2012, right before the world ended.
+Fractoscopic Visions was founded by [Colin Trierweiler](colin.html) in 2012, right before the world ended.
 
 What originally started as a business selling psychedelic posters has evolved into something so much more.  As is the nature of fractals, diving deeper into the subject revealed connections in other artforms and disciplines.
 

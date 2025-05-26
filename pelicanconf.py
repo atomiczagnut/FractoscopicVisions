@@ -20,9 +20,9 @@ DEFAULT_PAGINATION = True
 
 PAGE_PATHS = ['pages']
 PAGE_URL = '{slug}/'
-PAGE_SAVE_AS = '{slug}/index.html'
+PAGE_SAVE_AS = '{slug}.html'
 
-PLUGINS = ['sitemap', 'neighbors']
+PLUGINS = ['sitemap']
 SITEMAP = {
     'format': 'xml',
     'priorities': {'pages': 0.7, 'indexes': 0.5},
@@ -33,7 +33,7 @@ CACHE_CONTENT = True
 LOAD_CONTENT_CACHE = True
 
 PAGE_EXCLUDES = ['pages/404.md']
-STATIC_PATHS = ['pages/404.md']
+STATIC_PATHS = ['pages/404.md', 'themes/my-theme/static']
 EXTRA_PATH_METADATA = {
     'pages/404.md': {'path': 'fractoscopic/404.html'}
 }

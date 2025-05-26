@@ -1,4 +1,5 @@
 Title: Visual Art
+Slug: art
 
 ## Visual Art
 

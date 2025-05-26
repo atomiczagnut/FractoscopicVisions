@@ -1,4 +1,5 @@
 Title: Computer Code
+Slug: code
 
 ## Computer Code
 

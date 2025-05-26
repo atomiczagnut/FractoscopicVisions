@@ -1,4 +1,5 @@
 Title: Music
+Slug: music
 
 ## Music
 

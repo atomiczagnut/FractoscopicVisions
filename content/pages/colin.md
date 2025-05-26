@@ -1,4 +1,5 @@
 Title: Colin Trierweiler
+slug: colin
 
 ## Colin Trierweiler
 
