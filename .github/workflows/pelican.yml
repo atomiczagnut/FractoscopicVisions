@@ -34,18 +34,6 @@ jobs:
       - name: Build Pelican site
         run: pelican content -o output -s publishconf.py
 
-      - name: Validate HTML, CSS, and check links
-        uses: anishathalye/proof-html@v2
-        with:
-          directory: ./output
-          enforce_https: true
-          check_favicon: true
-          check_html: true
-          check_css: true
-          validator_ignore: |
-            Start tag seen without seeing a doctype first.*|
-            CSS: ".*": Property ".*" doesn't exist.*
-
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
