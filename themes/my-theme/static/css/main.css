@@ -7,13 +7,14 @@ header {
     color: #39FF14;
     font-family: "Space Mono", monospace;
     font-weight: 700;
-    text-decoration: none;
     
     a:link {
         color: #39FF14;
+        text-decoration: none;
     }
     a:visited {
         color: #39FF14;
+        text-decoration: none;
     }
 }
 

@@ -1,5 +1,9 @@
 Title: Home
-Slug: home
+Slug:
+URL:
+save_as: index.html
+
+## Welcome!
 
 Come explore the intersection of art, music, math, code, and philosophy!
 
