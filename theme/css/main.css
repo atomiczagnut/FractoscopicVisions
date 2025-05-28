@@ -1,0 +1,60 @@
+html, body {
+    min-height: 100%;
+}
+
+header {
+    background-color: #000;
+    color: #39FF14;
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    
+    a:link {
+        color: #39FF14;
+        text-decoration: none;
+    }
+    a:visited {
+        color: #39FF14;
+        text-decoration: none;
+    }
+}
+
+footer {
+    background-color: #000;
+    color: #39FF14;
+    text-align: left;
+    
+    a:link {
+    color: #39FF14;
+    }
+    a:visited {
+        color: #39FF14;
+    }
+
+}
+
+body {
+    background-color: #1e2327;
+    text-align: center;
+}
+
+h2 {
+    color: #49d930;
+}
+
+p {
+    color: #FFF;
+}
+
+.my-button {
+    background-color: transparent;
+    border: none;
+}
+
+i {
+    color: #39FF14;
+    font-size: 2rem;
+}
+
+.dropdown-menu {
+    background-color: #1e2327;
+}
